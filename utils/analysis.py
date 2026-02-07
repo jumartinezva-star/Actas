@@ -15,7 +15,7 @@ def load_phi4_model():
         tuple: (model, tokenizer)
     """
     try:
-        model_name = "microsoft/Phi-4-multimodal-instruct"
+        model_name = "microsoft/phi-2"
         
         # Cargar tokenizer
         tokenizer = AutoTokenizer.from_pretrained(

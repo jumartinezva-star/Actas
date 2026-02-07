@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Modelos y datos
+models/
+*.pth
+*.bin
+*.onnx
+*.safetensors
+
+# Archivos temporales
+*.mp3
+*.wav
+*.ogg
+*.m4a
+*.docx
+temp_*
+uploads/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

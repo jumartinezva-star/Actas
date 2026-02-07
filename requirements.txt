@@ -1,0 +1,28 @@
+# Streamlit
+streamlit>=1.31.0
+
+# PyTorch - Usar versiones compatibles
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Transformers y ML
+transformers>=4.36.0
+accelerate>=0.26.0
+peft>=0.7.0
+sentencepiece>=0.1.99
+safetensors>=0.4.0
+scipy>=1.11.0
+
+# Procesamiento de audio
+openai-whisper>=20231117
+soundfile>=0.12.1
+librosa>=0.10.1
+
+# Generación de documentos
+python-docx>=1.1.0
+Pillow>=10.0.0
+
+# Utilidades
+python-dateutil>=2.8.2
+tqdm>=4.66.0
